@@ -1,4 +1,4 @@
-## Hi there 👋
+## Y'all!! 😎
 
 <!--
 **COQR2L/COQR2L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
